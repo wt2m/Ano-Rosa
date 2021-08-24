@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+:root { 
+  --dark-brown: #a64a23;
+  --middle-brown: #f2cf9d;
+  --light-brown: #94714f;
+  --dark-gray: #362d27;
+  --middle-gray: #cfc7ba;
+  --light-gray: #f7f4f2;
+}
+.text-gray {
+  color: darkslategray;
+}
+.bg-middle-gray {
+background-color: var(--middle-gray) !important;
+}
+.bg-light-gray {
+background-color: var(--light-gray) !important;
+}
+.bg-dark-brown {
+background-color: var(--dark-brown) !important;
+}
+.bg-middle-brown {
+background-color: var(--middle-brown) !important;
+}
+.bg-light-brown {
+background-color: var(--light-brown) !important;
+}
+.bg-transparent {
+background-color: transparent !important;
+}
+.text-dark-gray {
+  color: var(--dark-gray) !important;
+}
+.text-middle-gray {
+  color: var(--middle-gray) !important;
+}
+.text-light-gray {
+  color: var(--light-gray) !important;
+}
+.text-dark-brown {
+  color: var(--dark-brown) !important;
+}
+.text-middle-brown {
+  color: var(--middle-brown) !important;
+}
+.text-light-brown {
+  color: var(--light-brown) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+body {
+font-family: Arial, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+button, a, input[type="submit"] {
+  font-family: 'Roboto Condensed' !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.btn-reset {
+  border:none !important;
+  background: transparent !important;
+  outline:none !important;
+  padding: 0px;
+  margin: 0px;
+}
+
+.flex-between {
+  display:flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.center-flex {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.center-button {
+  display:block;
+  margin: 0 auto;
+  margin-top: 1rem;
+}
+.table td {
+  vertical-align: middle;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.bg-header{
+  background-color: #343a40 !important;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.corpo {
+  position: relative;
+}
+.corpo::before{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: #e9ebed;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

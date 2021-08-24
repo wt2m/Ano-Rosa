@@ -1,0 +1,21 @@
+.create-category-icon-container {
+    border: 2px dashed #ced4da;
+    background-color: #f8f9fa!important;
+    cursor:pointer;
+    margin-bottom: 1rem;
+}
+.category-icon{
+    width: 225px;
+    height: 150px;
+}
+.modal-icon {
+    width: 80px;
+    font-size: 2rem;
+    color: red;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    border-radius: 0.25rem;
+    display:block;
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.5);
+}

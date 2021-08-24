@@ -1,0 +1,50 @@
+
+.dropdown-toggle.no-arrow::before, .dropdown-toggle.no-arrow::after {
+    display:none;
+}
+.cBZXUy div:first-child  {
+    overflow: visible !important;
+}
+
+.alternativa {
+    color: gray;
+}
+.create-formu-image-container {
+    border: 2px dashed #ced4da;
+    background-color: #f8f9fa!important;
+    height: 90px;
+}
+.formu-image-container, .create-formu-image-container {
+    text-align: center;
+    cursor:pointer;
+    width: 180px;
+}
+
+.index-action{
+    margin-right: 0.5rem;
+}
+.formu-image {
+    width: auto;
+    height: auto;
+    max-height: 85px;
+    max-width: 170px;
+    
+}
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+textarea {
+    resize: none;
+  }
+
+  .callout2 {
+    border-left-color: #d9534f;
+   
+}
+.callout2 h4{
+    color: #d9534f;
+}
+
+

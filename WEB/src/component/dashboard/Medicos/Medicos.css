@@ -1,0 +1,35 @@
+
+.dropdown-toggle.no-arrow::before, .dropdown-toggle.no-arrow::after {
+    display:none;
+}
+.cBZXUy div:first-child  {
+    overflow: visible !important;
+}
+
+/* CATEGORIAS DE BEBIDAS */
+.create-product-image-container {
+    border: 2px dashed #ced4da;
+    background-color: #f8f9fa!important;
+}
+.product-image-container, .create-product-image-container {
+    text-align: center;
+    cursor:pointer;
+    width: 180px;
+}
+.index-action{
+    margin-right: 0.5rem;
+}
+.product-image {
+    width: auto;
+    
+    max-width: 170px;
+}
+
+ .leaflet-container {
+    border: 1px solid #D3D2E5;
+    border-radius: 20px;
+  }
+  .marker-button{
+      height: 240;
+      width: 100%;
+  }

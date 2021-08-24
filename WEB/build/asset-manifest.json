@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a4e2373.chunk.css",
+    "main.js": "/static/js/main.d1d2a8b6.chunk.js",
+    "main.js.map": "/static/js/main.d1d2a8b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7efc9fb7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7efc9fb7.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.1118495c.chunk.js": "/static/js/2.1118495c.chunk.js",
+    "static/js/2.1118495c.chunk.js.map": "/static/js/2.1118495c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.295db724e329fdb2d1acba6189ae76a5.js": "/precache-manifest.295db724e329fdb2d1acba6189ae76a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3a4e2373.chunk.css.map": "/static/css/main.3a4e2373.chunk.css.map",
+    "static/js/2.1118495c.chunk.js.LICENSE.txt": "/static/js/2.1118495c.chunk.js.LICENSE.txt",
+    "static/media/LOGO BRANCA.png": "/static/media/LOGO BRANCA.4357f9d2.png",
+    "static/media/address.jpg": "/static/media/address.750b78d3.jpg",
+    "static/media/background.jpg": "/static/media/background.ff2922a3.jpg",
+    "static/media/card-front.png": "/static/media/card-front.10d88b5a.png",
+    "static/media/teste.jpeg": "/static/media/teste.d774951e.jpeg",
+    "static/media/vodka2.png": "/static/media/vodka2.b764b970.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7efc9fb7.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.1118495c.chunk.js",
+    "static/css/main.3a4e2373.chunk.css",
+    "static/js/main.d1d2a8b6.chunk.js"
+  ]
+}
